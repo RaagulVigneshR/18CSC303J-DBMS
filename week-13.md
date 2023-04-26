@@ -1,5 +1,4 @@
 ```
-Give this Repository a ⭐️⭐️ Star ⭐️⭐️ for updates.
 COPY PASTE ALL THE QUERIES ONE BY ONE IN SQLPLUS TO EXECUTE IT WITHOUT ANY ERROR
 ```
 
